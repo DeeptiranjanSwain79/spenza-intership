@@ -1,0 +1,480 @@
+[
+  {
+    "Id": 1,
+    "Location": "Maharashtra",
+    "data": 500000,
+    "Latitude": 19.601194,
+    "Longitude": 75.552979,
+    "Stream": 200000,
+    "Download": 150000,
+    "Other": 150000
+  },
+  {
+    "Id": 2,
+    "Location": "Kashmir",
+    "data": 90000,
+    "Latitude": 33.2778,
+    "Longitude": 75.3412,
+    "Stream": 20000,
+    "Download": 10000,
+    "Other": 60000
+  },
+  {
+    "Id": 3,
+    "Location": "Bhubaneswar",
+    "data": 200000,
+    "Latitude": 20.2961,
+    "Longitude": 85.8245,
+    "Stream": 50000,
+    "Download": 100000,
+    "Other": 350000
+  },
+  {
+    "Id": 4,
+    "Location": "Bengaluru",
+    "data": 1000000,
+    "Latitude": 12.9716,
+    "Longitude": 77.5946,
+    "Stream": 200000,
+    "Download": 100000,
+    "Other": 700000
+  },
+  {
+    "Id": 5,
+    "Location": "Bejing",
+    "data": 2000000,
+    "Latitude": 39.9042,
+    "Longitude": 116.4074,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 6,
+    "Location": "Shanghai",
+    "data": 2000000,
+    "Latitude": 31.2304,
+    "Longitude": 121.4737,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 7,
+    "Location": "New Delhi",
+    "data": 2000000,
+    "Latitude": 15.491997,
+    "Longitude": 73.81800065,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 8,
+    "Location": "Hong Kong",
+    "data": 2000000,
+    "Latitude": 34.98300013,
+    "Longitude": 63.13329964,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 12,
+    "Location": "Albania",
+    "data": 100000,
+    "Latitude": 41.51899817,
+    "Longitude": 19.79700359,
+    "Stream": 20000,
+    "Download": 30000,
+    "Other": 50000
+  },
+  {
+    "Id": 13,
+    "Location": "Algeria",
+    "data": 150000,
+    "Latitude": 36.82199703,
+
+    "Longitude": 5.76600356,
+    "Stream": 10000,
+    "Download": 70000,
+    "Other": 70000
+  },
+  {
+    "Id": 14,
+    "Location": "American Samoa",
+    "data": 200000,
+    "Latitude": -14.2766105,
+    "Longitude": -170.7066451,
+    "Stream": 80000,
+    "Download": 40000,
+    "Other": 80000
+  },
+  {
+    "Id": 15,
+    "Location": "Andorra",
+    "data": 300000,
+    "Latitude": 42.50000144,
+    "Longitude": 1.516485961,
+    "Stream": 50000,
+    "Download": 125000,
+    "Other": 125000
+  },
+
+  {
+    "Id": 16,
+    "Location": "Angola",
+    "data": 500000,
+    "Latitude": -18.01953449,
+    "Longitude": 21.42999914,
+    "Stream": 14000,
+    "Download": 243000,
+    "Other": 243000
+  },
+  {
+    "Id": 17,
+    "Location": "Antarctica",
+    "data": 900000,
+    "Latitude": -62.17388669,
+    "Longitude": -58.86386407,
+    "Stream": 35000,
+    "Download": 200000,
+    "Other": 35000
+  },
+  {
+    "Id": 18,
+    "Location": "Antigua And Barbuda",
+    "data": 2000000,
+    "Latitude": 17.11803652,
+
+    "Longitude": -61.85003382,
+    "Stream": 200000,
+    "Download": 400000,
+    "Other": 1400000
+  },
+  {
+    "Id": 19,
+    "Location": "Argentina",
+    "data": 600000,
+    "Latitude": -51.65003986,
+    "Longitude": -72.30001612,
+    "Stream": 300000,
+    "Download": 150000,
+    "Other": 150000
+  },
+  {
+    "Id": 21,
+    "Location": "Aruba",
+    "data": 650000,
+    "Latitude": 12.53038373,
+    "Longitude": -70.02899195,
+    "Stream": 50000,
+    "Download": 300000,
+    "Other": 300000
+  },
+  {
+    "Id": 22,
+    "Location": "Australia",
+    "data": 500000,
+    "Latitude": -33.42004148,
+    "Longitude": 151.3000048,
+    "Stream": 200000,
+    "Download": 100000,
+    "Other": 100000
+  },
+  {
+    "Id": 23,
+    "Location": "Austria",
+    "data": 800000,
+    "Latitude": -33.42004148,
+    "Longitude": 151.3000048,
+    "Stream": 300000,
+    "Download": 486000,
+    "Other": 14000
+  },
+  {
+    "Id": 24,
+    "Location": "Azerbaijan",
+    "data": 2500000,
+    "Latitude": 40.5655556,
+    "Longitude": 45.8161111,
+    "Stream": 1400000,
+    "Download": 550000,
+    "Other": 550000
+  },
+  {
+    "Id": 25,
+    "Location": "Bahrain",
+    "data": 8400000,
+    "Latitude": 26.23613629,
+    "Longitude": 50.58305172,
+    "Stream": 5800000,
+    "Download": 13000000,
+    "Other": 1300000
+  },
+
+  {
+    "Id": 26,
+    "Location": "Bangladesh",
+    "data": 300000,
+    "Latitude": 24.24997845,
+    "Longitude": 89.92003048,
+    "Stream": 10000,
+    "Download": 145000,
+    "Other": 145000
+  },
+  {
+    "Id": 27,
+    "Location": "Barbados",
+    "data": 7700000,
+    "Latitude": 13.10200258,
+    "Longitude": -59.61652674,
+    "Stream": 2600000,
+    "Download": 2500000,
+    "Other": 2600000
+  },
+  {
+    "Id": 28,
+    "Location": "Belarus",
+    "data": 4850000,
+    "Latitude": 53.13684572,
+
+    "Longitude": 26.01344031,
+    "Stream": 580000,
+    "Download": 2135000,
+    "Other": 2135000
+  },
+  {
+    "Id": 29,
+    "Location": "Belgium",
+    "data": 6500000,
+    "Latitude": 50.44599911,
+    "Longitude": 3.93903561,
+    "Stream": 850000,
+    "Download": 2825000,
+    "Other": 2825000
+  },
+  {
+    "Id": 30,
+    "Location": "Belize",
+    "data": 4270000,
+    "Latitude": 17.15599807,
+    "Longitude": -89.06100252,
+    "Stream": 27000,
+    "Download": 2121500,
+    "Other": 2121500
+  },
+
+  {
+    "Id": 31,
+    "Location": "Benin",
+    "data": 790000,
+    "Latitude": 6.615000092,
+    "Longitude": 1.715004457,
+    "Stream": 90000,
+    "Download": 350000,
+    "Other": 350000
+  },
+  {
+    "Id": 32,
+    "Location": "Bermuda",
+    "data": 350500,
+    "Latitude": 32.29419029,
+    "Longitude": -64.78393742,
+    "Stream": 5000,
+    "Download": 172750,
+    "Other": 172750
+  },
+  {
+    "Id": 33,
+
+    "Location": "Bhutan",
+    "data": 802000,
+
+    "Latitude": 27.3833011,
+    "Longitude": 89.51670065,
+    "Stream": 20000,
+    "Download": 391000,
+    "Other": 391000
+  },
+  {
+    "Id": 34,
+    "Location": "Bolivia",
+    "data": 215000,
+    "Latitude": -17.55000242,
+    "Longitude": -65.83997115,
+    "Stream": 420000,
+    "Download": 852500,
+    "Other": 852500
+  },
+  {
+    "Id": 35,
+    "Location": "Bosnia And Herzegovina",
+    "data": 10700,
+    "Latitude": 44.21997398,
+    "Longitude": 17.91998083,
+    "Stream": 5000,
+    "Download": 47850,
+    "Other": 47850
+  },
+  {
+    "Id": 36,
+    "Location": "Botswana",
+    "data": 405000,
+    "Latitude": -24.377004,
+    "Longitude": 26.15200256,
+    "Stream": 120000,
+    "Download": 142500,
+    "Other": 142500
+  },
+  {
+    "Id": 37,
+    "Location": "England",
+    "data": 405000,
+    "Latitude": 53.582086,
+    "Longitude": -108.945292,
+    "Stream": 120000,
+    "Download": 142500,
+    "Other": 142500
+  },
+  {
+    "Id": 38,
+    "Location": "South Africa",
+    "data": 2125000,
+    "Latitude": 29.901638,
+    "Longitude": -106.130914,
+    "Stream": 420000,
+    "Download": 852500,
+    "Other": 852500
+  },
+  {
+    "Id": 39,
+    "Location": "Yukon",
+    "data": 90000,
+    "Latitude": 64.863880,
+    "Longitude": -132.576797,
+    "Stream": 20000,
+    "Download": 10000,
+    "Other": 60000
+  },
+  {
+    "Id": 40,
+    "Location": "New York",
+    "data": 200000,
+    "Latitude": 59.283849,
+    "Longitude": -72.762346,
+    "Stream": 50000,
+    "Download": 100000,
+    "Other": 350000
+  },
+  {
+    "Id": 41,
+    "Location": "Kolpashevsky",
+    "data": 215000,
+    "Latitude": 58.649519,
+    "Longitude": -65.83997115,
+    "Stream": 420000,
+    "Download": 852500,
+    "Other": 852500
+  },
+  {
+    "Id": 42,
+    "Location": "Greenland",
+    "data": 2500000,
+    "Latitude": 73.815026,
+    "Longitude": -35.746993,
+    "Stream": 1400000,
+    "Download": 550000,
+    "Other": 550000
+  },
+  {
+    "Id": 43,
+    "Location": "Ammasalik",
+    "data": 2500000,
+    "Latitude": 67.09974648452629,
+    "Longitude": -41.727557586647215,
+    "Stream": 1400000,
+    "Download": 550000,
+    "Other": 550000
+  },
+  {
+    "Id": 44,
+    "Location": "Thule",
+    "data": 200000,
+    "Latitude": 78.61913438118698,
+    "Longitude": -67.31791847418457,
+    "Stream": 50000,
+    "Download": 100000,
+    "Other": 350000
+  },
+  {
+    "Id": 45,
+    "Location": "Qikiqtaaluk Region, NU",
+    "data": 200000,
+    "Latitude": 79.60210833264982,
+    "Longitude": -82.83464238846268,
+    "Stream": 50000,
+    "Download": 100000,
+    "Other": 350000
+  },
+  {
+    "Id": 46,
+    "Location": "Evenkiysky Rayon",
+    "data": 2000000,
+    "Latitude": 62.59738766756358,
+    "Longitude": 94.21222402846851,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 47,
+    "Location": "Kazakhstan",
+    "data": 10700,
+    "Latitude": 51.976758710187404,
+    "Longitude": 77.26690723693409,
+    "Stream": 5000,
+    "Download": 47850,
+    "Other": 47850
+  },
+  {
+    "Id": 48,
+    "Location": "Magadan Oblast",
+    "data": 200000,
+    "Latitude": 65.43634692902293,
+    "Longitude": 156.7903490284685,
+    "Stream": 50000,
+    "Download": 100000,
+    "Other": 350000
+  },
+  {
+    "Id": 47,
+    "Location": "Taymyrsky Dolgano-Nenetsky District",
+    "data": 10700,
+    "Latitude": 79.35796699341107,
+    "Longitude": 97.23556711471119,
+    "Stream": 5000,
+    "Download": 47850,
+    "Other": 47850
+  },
+  {
+    "Id": 48,
+    "Location": "Borena",
+    "data": 2000000,
+    "Latitude": 3.7414792303328106,
+    "Longitude": 38.102728865504645,
+    "Stream": 400000,
+    "Download": 200000,
+    "Other": 1400000
+  },
+  {
+    "Id": 49,
+    "Location": "Região Geográfica Intermediária de Palmas - TO",
+    "data": 10700,
+    "Latitude": -10.764242322536141,
+    "Longitude": -47.53790900909863,
+    "Stream": 5000,
+    "Download": 47850,
+    "Other": 47850
+  }
+]

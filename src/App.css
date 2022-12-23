@@ -1,0 +1,23 @@
+
+.leaflet-container {
+  width: 100%;
+  height: 97vh;
+  overflow: hidden;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+  width: 20.045%;
+  background-color: aliceblue;
+  position: fixed;
+  top: 1vmax;
+  right: 1vmax;
+  z-index: 99999999;
+}
+
+.icons > div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
